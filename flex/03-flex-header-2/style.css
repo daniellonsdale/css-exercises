@@ -62,6 +62,7 @@ ul {
 .right-items{
   display: flex;
   margin-left: auto;
+  align-items: center;
 }
 
  .links li{
