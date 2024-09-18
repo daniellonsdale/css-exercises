@@ -18,6 +18,8 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 a {
@@ -26,7 +28,6 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  margin: 0 8px;
 }
 
 .left-links ul{
@@ -35,4 +36,8 @@ a {
 
 .right-links ul{
   display: flex;
+}
+
+li{
+  margin: 0 8px;
 }
