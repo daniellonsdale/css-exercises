@@ -55,6 +55,7 @@ ul {
   display: flex;
   margin-right: auto;
   justify-content: space-evenly;
+  gap: 12px;
 }
 
 .right-items{
@@ -62,6 +63,6 @@ ul {
   margin-left: auto;
 }
 
-.links li{
+ .links li{
   margin: 0 8px;
-}
+} 
