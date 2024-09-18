@@ -51,10 +51,12 @@ ul {
 
 .left-items{
   display: flex;
+  margin-right: auto;
 }
 
 .right-items{
   display: flex;
+  margin-left: auto;
 }
 
 .links li{
