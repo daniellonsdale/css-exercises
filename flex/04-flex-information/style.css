@@ -21,6 +21,13 @@ img {
   display: flex;
 }
 
+.barberry-container{
+  display: flex;
+  flex-direction: column;
+  text-wrap: wrap;
+  flex-basis: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
