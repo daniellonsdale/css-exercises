@@ -23,6 +23,7 @@ img {
 
 .plant-container{
   display: flex;
+  gap: 52px;
 }
 
 .barberry-container{
