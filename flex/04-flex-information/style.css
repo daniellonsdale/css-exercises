@@ -12,6 +12,10 @@ img {
   font-weight: 900;
 }
 
+.text{
+  text-align: center;
+}
+
 .title-container{
   display: flex;
   justify-content: center;
@@ -26,6 +30,7 @@ img {
   flex-direction: column;
   text-wrap: wrap;
   flex-basis: 200px;
+  align-items: center;
 }
 
 .chili-container{
@@ -33,6 +38,7 @@ img {
   flex-direction: column;
   text-wrap: wrap;
   flex-basis: 200px;
+  align-items: center;
 }
 
 .pepper-container{
@@ -40,6 +46,7 @@ img {
   flex-direction: column;
   text-wrap: wrap;
   flex-basis: 200px;
+  align-items: center;
 }
 
 .saffron-container{
@@ -47,6 +54,7 @@ img {
   flex-direction: column;
   text-wrap: wrap;
   flex-basis: 200px;
+  align-items: center;
 }
 
 /* do not edit this footer */
