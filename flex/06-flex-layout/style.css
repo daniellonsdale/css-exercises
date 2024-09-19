@@ -31,12 +31,28 @@ input {
 .header{
   display: flex;
   justify-content: space-between;
+  padding: 12px;
+}
+
+.left-links{
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.right-links{
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
 }
 
 a{
   text-decoration: none;
+  color: darkgray;
 }
 
 ul{
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
