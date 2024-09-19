@@ -24,6 +24,7 @@ img {
 .plant-container{
   display: flex;
   gap: 52px;
+  justify-content: space-around;
 }
 
 .barberry-container{
