@@ -34,6 +34,13 @@ input {
   padding: 12px;
 }
 
+.footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  background-color: #eeeeee;
+}
+
 .left-links{
   display: flex;
   justify-content: space-between;
