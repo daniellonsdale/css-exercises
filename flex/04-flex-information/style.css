@@ -25,6 +25,7 @@ img {
   display: flex;
   gap: 52px;
   justify-content: space-around;
+  margin-top: 32px;
 }
 
 .barberry-container{
