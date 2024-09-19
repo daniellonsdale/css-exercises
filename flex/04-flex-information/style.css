@@ -28,6 +28,27 @@ img {
   flex-basis: 200px;
 }
 
+.chili-container{
+  display: flex;
+  flex-direction: column;
+  text-wrap: wrap;
+  flex-basis: 200px;
+}
+
+.pepper-container{
+  display: flex;
+  flex-direction: column;
+  text-wrap: wrap;
+  flex-basis: 200px;
+}
+
+.saffron-container{
+  display: flex;
+  flex-direction: column;
+  text-wrap: wrap;
+  flex-basis: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
