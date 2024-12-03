@@ -119,7 +119,21 @@
 
 .sidebar{
   grid-column: 1 / 2;
-  grid-row: 2 / 3;
+  grid-row: 2 / 4;
+
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  gap: 50px;
+}
+
+.sidebar .photo{
+  display: grid;
+  align-items: center;
+}
+
+.sidebar .side-content{
+  display: grid;
+  align-items: center;
 }
 
 .nav{
